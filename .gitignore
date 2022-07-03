@@ -1,0 +1,7 @@
+# Generated files
+/target/
+
+# Testing files
+messages.txt
+messages2.txt
+messages3.txt
